@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+
+	<ART>
+		<ID>sunset</ID>
+		<IMAGE>lightbox_images/sunset.jpg width="670" height="447"</IMAGE>
+		<TITLE>Sunset</TITLE>
+		<CONTENT>
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod metus quis magna varius a suscipit ligula tristique. Nullam at pretium diam. Duis vitae elementum eros. Sed at aliquet mi. Pellentesque eleifend dolor nec tortor mattis ut congue justo dictum. Aliquam molestie gravida turpis a venenatis. Morbi ullamcorper euismod magna in faucibus. Cras sed urna ipsum, sit amet tempus arcu.
+		</CONTENT>
+	</ART>
+
+	<ART>
+		<ID>cloud</ID>
+		<IMAGE>lightbox_images/cloud.jpg width="670" height="447"</IMAGE>
+		<TITLE>Cloud</TITLE>
+		<CONTENT>
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod metus quis magna varius a suscipit ligula tristique. Nullam at pretium diam. Duis vitae elementum eros. Sed at aliquet mi. Pellentesque eleifend dolor nec tortor mattis ut congue justo dictum. Aliquam molestie gravida turpis a venenatis. Morbi ullamcorper euismod magna in faucibus. Cras sed urna ipsum, sit amet tempus arcu.
+		</CONTENT>
+	</ART>
+
+	<ART>
+		<ID>house</ID>
+		<IMAGE>lightbox_images/house.jpg width="670" height="447"</IMAGE>
+		<TITLE>House</TITLE>
+		<CONTENT>
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod metus quis magna varius a suscipit ligula tristique. Nullam at pretium diam. Duis vitae elementum eros. Sed at aliquet mi. Pellentesque eleifend dolor nec tortor mattis ut congue justo dictum. Aliquam molestie gravida turpis a venenatis. Morbi ullamcorper euismod magna in faucibus. Cras sed urna ipsum, sit amet tempus arcu.
+		</CONTENT>
+	</ART>
+
+	<ART>
+		<ID>stairs</ID>
+		<IMAGE>lightbox_images/stairs.jpg width="670" height="447"</IMAGE>
+		<TITLE>Stairs</TITLE>
+		<CONTENT>
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod metus quis magna varius a suscipit ligula tristique. Nullam at pretium diam. Duis vitae elementum eros. Sed at aliquet mi. Pellentesque eleifend dolor nec tortor mattis ut congue justo dictum. Aliquam molestie gravida turpis a venenatis. Morbi ullamcorper euismod magna in faucibus. Cras sed urna ipsum, sit amet tempus arcu.
+		</CONTENT>
+	</ART>
+
+	<ART>
+		<ID>grass</ID>
+		<IMAGE>lightbox_images/grass.jpg width="670" height="447"</IMAGE>
+		<TITLE>Grass</TITLE>
+		<CONTENT>
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod metus quis magna varius a suscipit ligula tristique. Nullam at pretium diam. Duis vitae elementum eros. Sed at aliquet mi. Pellentesque eleifend dolor nec tortor mattis ut congue justo dictum. Aliquam molestie gravida turpis a venenatis. Morbi ullamcorper euismod magna in faucibus. Cras sed urna ipsum, sit amet tempus arcu.
+		</CONTENT>
+	</ART>
+
+	<ART>
+		<ID>eiffel_tower</ID>
+		<IMAGE>lightbox_images/eiffel_tower.jpg width="670" height="447"</IMAGE>
+		<TITLE>Eiffel Tower</TITLE>
+		<CONTENT>
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod metus quis magna varius a suscipit ligula tristique. Nullam at pretium diam. Duis vitae elementum eros. Sed at aliquet mi. Pellentesque eleifend dolor nec tortor mattis ut congue justo dictum. Aliquam molestie gravida turpis a venenatis. Morbi ullamcorper euismod magna in faucibus. Cras sed urna ipsum, sit amet tempus arcu.
+		</CONTENT>
+	</ART>
+
+</CATALOG>
