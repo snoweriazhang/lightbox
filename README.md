@@ -1,4 +1,4 @@
 lightbox
 ========
 
-Simple lightbox example built with jQuery, PHP, and XML. Live example: http://snoweria.com/test/lightbox/
+Simple lightbox example built with jQuery, PHP, and XML. Live example: http://snoweria.com/sandbox/lightbox/
